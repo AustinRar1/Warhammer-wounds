@@ -1,0 +1,7 @@
+{
+  "name": "warhammer-wounds",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
